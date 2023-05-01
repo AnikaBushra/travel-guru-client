@@ -6,7 +6,7 @@ import './Header.css'
 const Header = () => {
     return (
 
-        <div className="navbar flex justify-between px-20 py-5 text-white text-xl">
+        <div className="navbar flex justify-between  py-5 text-white text-xl">
             <div className="">
                 <div className="w-24 bg-slate-50 p-2 rounded">
                     <img src={logo} />
